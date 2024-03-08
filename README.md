@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning Rust and Distributed Systems
+- 🌱 I’m currently learning Go and Kubernetes and working on SubsWrap
 
 - 📫 How to reach me **apazokit@uwaterloo.ca**
 
