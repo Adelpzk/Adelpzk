@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning Go and Kubernetes and working on SubsWrap
+- 🌱 I’m currently learning Elixir, and working on my Engineering Capstone Project
 
 - 📫 How to reach me **apazokit@uwaterloo.ca**
 
