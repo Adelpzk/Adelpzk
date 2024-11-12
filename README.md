@@ -49,9 +49,10 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+## Statistical Data:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adelpzk&theme=github_dark)
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adelpzk&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adelpzk&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&hide=jupyter%20notebook,vba"
     alt="adam-pw" 
     bg_color=#808080/></p>
 
