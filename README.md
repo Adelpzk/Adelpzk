@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning Elixir, and working on my Engineering Capstone Project
+- 🌱 I’m currently learning Rust, and working on my Engineering Capstone Project
 
 - 📫 How to reach me **apazokit@uwaterloo.ca**
 
